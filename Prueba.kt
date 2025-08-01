@@ -1,4 +1,5 @@
 fun main() {
+fun main() {
 
     println("¿Cuál es tu nombre completo?")
     val name = readLine()!!
@@ -215,8 +216,4 @@ fun main() {
     """.trimIndent()
     println(resumen3)
 }
-            ---------------------------------
-            """.trimIndent()
-        println(resumen)
-    }
 }
